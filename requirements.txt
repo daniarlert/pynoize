@@ -1,0 +1,6 @@
+imageio==2.30.0
+imageio-ffmpeg==0.4.8
+numpy==1.24.3
+perlin-noise==1.12
+Pillow==9.5.0
+pygame==2.4.0
